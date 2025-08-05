@@ -1,5 +1,6 @@
 #include<stdio.h>
 }\\this is the first change in B2
+//time for a major change in B2
 void check(int a){
 if(a%2==0){
 printf("even");
