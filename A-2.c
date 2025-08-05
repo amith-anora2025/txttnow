@@ -2,6 +2,7 @@
 \\this is the first change in A2
 //theres an update
 //new version for A2
+//new update for pull A2
 int main(){
     int arr[20];
     unsigned int a,i=0;
