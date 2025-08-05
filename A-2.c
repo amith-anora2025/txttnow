@@ -1,6 +1,6 @@
 #include<stdio.h>
 \\this is the first change in A2
-//time for a major change in A2
+//theres an update
 int main(){
     int arr[20];
     unsigned int a,i=0;
