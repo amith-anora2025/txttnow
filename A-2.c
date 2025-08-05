@@ -1,6 +1,5 @@
 #include<stdio.h>
-\\this is the first change in A2
-//hello version1
+//hello version2
 int main(){
     int arr[20];
     unsigned int a,i=0;
@@ -21,4 +20,4 @@ int main(){
         printf("%d",arr[j]);
         j--;
     }
-}This is the first code
+}

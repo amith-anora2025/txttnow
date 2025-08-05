@@ -1,6 +1,5 @@
 #include<stdio.h>
-}\\this is the first change in B2
-//hello version1
+//hello version2
 void check(int a){
 if(a%2==0){
 printf("even");
