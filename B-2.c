@@ -1,8 +1,6 @@
 #include<stdio.h>
 }\\this is the first change in B2
-//theres an update
-//new version for B2
-//new update for pull B2
+//hello version1
 void check(int a){
 if(a%2==0){
 printf("even");
